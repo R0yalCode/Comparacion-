@@ -1,0 +1,3 @@
+2025-11-21T09:47:50.415250Z;C:\Users\ivanj\Documents\UNL\CICLO 3\ESTRUTURA DE DATOS\ordenacion\ordenacion\ordenacion\resources\citas_100.csv;Burbuja;n=100;tiempo_ns=541000;comparisons=4922;swaps=2148
+2025-11-21T09:49:38.942055700Z;C:\Users\ivanj\Documents\UNL\CICLO 3\ESTRUTURA DE DATOS\ordenacion\ordenacion\ordenacion\resources\pacientes_500.csv;Burbuja;n=500;tiempo_ns=2664500;comparisons=124579;swaps=57545
+2025-11-21T09:51:18.949002600Z;C:\Users\ivanj\Documents\UNL\CICLO 3\ESTRUTURA DE DATOS\ordenacion\ordenacion\ordenacion\resources\inventario_500_inverso.csv;Inserción;n=500;tiempo_ns=2470400;comparisons=124750;swaps=124750
