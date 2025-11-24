@@ -25,25 +25,25 @@ private final Path defaultDatasetsPath = Paths.get(System.getProperty("user.dir"
         while (true) {
             System.out.println();
             System.out.println(AnsiColors.cyan("Menú principal:"));
-            System.out.println("1) Usar CSVs ya guardados (ruta por defecto: " + defaultDatasetsPath + ")");
-            System.out.println("2) Cargar CSV manualmente (introduce ruta)");
-            System.out.println("3) Ver historial de ordenamientos");
-            System.out.println("4) Exportar historial a TXT");
+            // System.out.println("1) Usar CSVs ya guardados (ruta por defecto: " + defaultDatasetsPath + ")");
+            System.out.println("1) Cargar CSV manualmente (introduce ruta)");
+            System.out.println("2) Ver historial de ordenamientos");
+            System.out.println("3) Exportar historial a TXT");
             System.out.println("0) Salir");
             System.out.print(AnsiColors.yellow("Selecciona una opción: "));
             String opt = scanner.nextLine().trim();
 
             switch (opt) {
+                //case "1":
+                  //  optionUseDefault();
+                    //break;
                 case "1":
-                    optionUseDefault();
-                    break;
-                case "2":
                     optionLoadManual();
                     break;
-                case "3":
+                case "2":
                     System.out.println(history.listAll());
                     break;
-                case "4":
+                case "3":
                     System.out.print("Ruta destino (ejemplo: resources/history_export.txt): ");
                     String out = scanner.nextLine().trim();
                     history.exportToFile(out);
