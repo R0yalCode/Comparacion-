@@ -1,0 +1,501 @@
+id;insumo;stock
+ITEM-0001;Termómetro Digital;500
+ITEM-0002;Esparadrapo 5cm;499
+ITEM-0003;Bolsa Desechable 30L;498
+ITEM-0004;Catéter 18G;497
+ITEM-0005;Gasas 10x10;496
+ITEM-0006;Bolsa Desechable 30L;495
+ITEM-0007;Termómetro Digital;494
+ITEM-0008;Jeringa 10mL;493
+ITEM-0009;Termómetro Digital;492
+ITEM-0010;Guante Nitrilo Talla M;491
+ITEM-0011;Cubrezapatos;490
+ITEM-0012;Jeringa 10mL;489
+ITEM-0013;Esparadrapo 5cm;488
+ITEM-0014;Catéter 18G;487
+ITEM-0015;Mascarilla N95;486
+ITEM-0016;Guantes Látex Talla M;485
+ITEM-0017;Guante Nitrilo Talla M;484
+ITEM-0018;Guante Nitrilo Talla L;483
+ITEM-0019;Alcohol en Gel 250mL;482
+ITEM-0020;Guantes Látex Talla M;481
+ITEM-0021;Catéter 16G;480
+ITEM-0022;Jeringa 10mL;479
+ITEM-0023;Sutura Nylon 3/0;478
+ITEM-0024;Cubrezapatos;477
+ITEM-0025;Alcohol en Gel 250mL;476
+ITEM-0026;Gasas 10x10;475
+ITEM-0027;Guante Nitrilo Talla S;474
+ITEM-0028;Alcohol 70% 500mL;473
+ITEM-0029;Esparadrapo 5cm;472
+ITEM-0030;Alcohol en Gel 250mL;471
+ITEM-0031;Termómetro Digital;470
+ITEM-0032;Guante Nitrilo Talla M;469
+ITEM-0033;Alcohol 70% 500mL;468
+ITEM-0034;Guante Nitrilo Talla L;467
+ITEM-0035;Mascarilla Quirúrgica 3pl;466
+ITEM-0036;Bata Quirúrgica;465
+ITEM-0037;Guantes Látex Talla M;464
+ITEM-0038;Jeringa 10mL;463
+ITEM-0039;Jeringa 10mL;462
+ITEM-0040;Catéter 16G;461
+ITEM-0041;Cinta Micropore 2.5cm;460
+ITEM-0042;Guante Nitrilo Talla M;459
+ITEM-0043;Esparadrapo 5cm;458
+ITEM-0044;Alcohol 70% 500mL;457
+ITEM-0045;Alcohol en Gel 250mL;456
+ITEM-0046;Termómetro Digital;455
+ITEM-0047;Jeringa 10mL;454
+ITEM-0048;Jeringa 10mL;453
+ITEM-0049;Termómetro Digital;452
+ITEM-0050;Bata Quirúrgica;451
+ITEM-0051;Guante Nitrilo Talla L;450
+ITEM-0052;Cinta Micropore 2.5cm;449
+ITEM-0053;Alcohol 70% 500mL;448
+ITEM-0054;Sutura Nylon 3/0;447
+ITEM-0055;Jeringa 10mL;446
+ITEM-0056;Catéter 16G;445
+ITEM-0057;Jeringa 5mL;444
+ITEM-0058;Guantes Látex Talla M;443
+ITEM-0059;Mascarilla N95;442
+ITEM-0060;Mascarilla Quirúrgica 3pl;441
+ITEM-0061;Alcohol 70% 1L;440
+ITEM-0062;Guante Nitrilo Talla S;439
+ITEM-0063;Cubrezapatos;438
+ITEM-0064;Gasas 10x10;437
+ITEM-0065;Bisturí 10;436
+ITEM-0066;Sutura Nylon 3/0;435
+ITEM-0067;Catéter 16G;434
+ITEM-0068;Sutura Seda 4/0;433
+ITEM-0069;Alcohol 70% 1L;432
+ITEM-0070;Mascarilla N95;431
+ITEM-0071;Bata Quirúrgica;430
+ITEM-0072;Mascarilla N95;429
+ITEM-0073;Bolsa Desechable 30L;428
+ITEM-0074;Termómetro Digital;427
+ITEM-0075;Gasas 5x5;426
+ITEM-0076;Esparadrapo 5cm;425
+ITEM-0077;Compresa Estéril 10x10;424
+ITEM-0078;Bolsa Desechable 30L;423
+ITEM-0079;Bisturí 10;422
+ITEM-0080;Gasas 5x5;421
+ITEM-0081;Alcohol 70% 1L;420
+ITEM-0082;Alcohol 70% 500mL;419
+ITEM-0083;Guante Nitrilo Talla L;418
+ITEM-0084;Termómetro Digital;417
+ITEM-0085;Gasas 10x10;416
+ITEM-0086;Bolsa Desechable 30L;415
+ITEM-0087;Termómetro Digital;414
+ITEM-0088;Guante Nitrilo Talla L;413
+ITEM-0089;Alcohol en Gel 250mL;412
+ITEM-0090;Jeringa 5mL;411
+ITEM-0091;Alcohol en Gel 250mL;410
+ITEM-0092;Jeringa 10mL;409
+ITEM-0093;Bolsa Desechable 30L;408
+ITEM-0094;Guante Nitrilo Talla L;407
+ITEM-0095;Sutura Seda 4/0;406
+ITEM-0096;Sutura Seda 4/0;405
+ITEM-0097;Compresa Estéril 10x10;404
+ITEM-0098;Compresa Estéril 10x10;403
+ITEM-0099;Gasas 10x10;402
+ITEM-0100;Bolsa Desechable 30L;401
+ITEM-0101;Bolsa Desechable 30L;400
+ITEM-0102;Bolsa Desechable 30L;399
+ITEM-0103;Guantes Látex Talla M;398
+ITEM-0104;Gasas 10x10;397
+ITEM-0105;Jeringa 10mL;396
+ITEM-0106;Sutura Nylon 3/0;395
+ITEM-0107;Mascarilla Quirúrgica 3pl;394
+ITEM-0108;Alcohol 70% 1L;393
+ITEM-0109;Gasas 5x5;392
+ITEM-0110;Alcohol 70% 500mL;391
+ITEM-0111;Mascarilla Quirúrgica 3pl;390
+ITEM-0112;Bisturí 10;389
+ITEM-0113;Guante Nitrilo Talla S;388
+ITEM-0114;Jeringa 10mL;387
+ITEM-0115;Sutura Seda 4/0;386
+ITEM-0116;Cinta Micropore 2.5cm;385
+ITEM-0117;Jeringa 10mL;384
+ITEM-0118;Termómetro Digital;383
+ITEM-0119;Sutura Seda 4/0;382
+ITEM-0120;Alcohol 70% 500mL;381
+ITEM-0121;Esparadrapo 5cm;380
+ITEM-0122;Guante Nitrilo Talla L;379
+ITEM-0123;Guante Nitrilo Talla L;378
+ITEM-0124;Compresa Estéril 10x10;377
+ITEM-0125;Catéter 16G;376
+ITEM-0126;Bolsa Desechable 30L;375
+ITEM-0127;Cubrezapatos;374
+ITEM-0128;Bisturí 10;373
+ITEM-0129;Sutura Nylon 3/0;372
+ITEM-0130;Catéter 18G;371
+ITEM-0131;Bata Quirúrgica;370
+ITEM-0132;Catéter 18G;369
+ITEM-0133;Cinta Micropore 2.5cm;368
+ITEM-0134;Guante Nitrilo Talla L;367
+ITEM-0135;Alcohol 70% 500mL;366
+ITEM-0136;Jeringa 5mL;365
+ITEM-0137;Guantes Látex Talla M;364
+ITEM-0138;Guante Nitrilo Talla L;363
+ITEM-0139;Termómetro Digital;362
+ITEM-0140;Termómetro Digital;361
+ITEM-0141;Alcohol en Gel 250mL;360
+ITEM-0142;Sutura Nylon 3/0;359
+ITEM-0143;Jeringa 10mL;358
+ITEM-0144;Alcohol 70% 500mL;357
+ITEM-0145;Bata Quirúrgica;356
+ITEM-0146;Sutura Seda 4/0;355
+ITEM-0147;Guantes Látex Talla M;354
+ITEM-0148;Cinta Micropore 2.5cm;353
+ITEM-0149;Gasas 10x10;352
+ITEM-0150;Bata Quirúrgica;351
+ITEM-0151;Alcohol 70% 500mL;350
+ITEM-0152;Catéter 18G;349
+ITEM-0153;Sutura Nylon 3/0;348
+ITEM-0154;Guante Nitrilo Talla M;347
+ITEM-0155;Alcohol 70% 1L;346
+ITEM-0156;Sutura Nylon 3/0;345
+ITEM-0157;Alcohol 70% 500mL;344
+ITEM-0158;Compresa Estéril 10x10;343
+ITEM-0159;Gasas 10x10;342
+ITEM-0160;Gasas 10x10;341
+ITEM-0161;Jeringa 5mL;340
+ITEM-0162;Bolsa Desechable 30L;339
+ITEM-0163;Mascarilla Quirúrgica 3pl;338
+ITEM-0164;Jeringa 10mL;337
+ITEM-0165;Sutura Nylon 3/0;336
+ITEM-0166;Compresa Estéril 10x10;335
+ITEM-0167;Guante Nitrilo Talla L;334
+ITEM-0168;Mascarilla N95;333
+ITEM-0169;Gasas 5x5;332
+ITEM-0170;Guantes Látex Talla M;331
+ITEM-0171;Sutura Seda 4/0;330
+ITEM-0172;Mascarilla N95;329
+ITEM-0173;Alcohol 70% 500mL;328
+ITEM-0174;Guantes Látex Talla M;327
+ITEM-0175;Compresa Estéril 10x10;326
+ITEM-0176;Esparadrapo 5cm;325
+ITEM-0177;Sutura Seda 4/0;324
+ITEM-0178;Guante Nitrilo Talla L;323
+ITEM-0179;Sutura Nylon 3/0;322
+ITEM-0180;Guantes Látex Talla M;321
+ITEM-0181;Gasas 10x10;320
+ITEM-0182;Cinta Micropore 2.5cm;319
+ITEM-0183;Cinta Micropore 2.5cm;318
+ITEM-0184;Alcohol 70% 500mL;317
+ITEM-0185;Gasas 10x10;316
+ITEM-0186;Alcohol en Gel 250mL;315
+ITEM-0187;Esparadrapo 5cm;314
+ITEM-0188;Cubrezapatos;313
+ITEM-0189;Esparadrapo 5cm;312
+ITEM-0190;Jeringa 5mL;311
+ITEM-0191;Cinta Micropore 2.5cm;310
+ITEM-0192;Guante Nitrilo Talla M;309
+ITEM-0193;Guante Nitrilo Talla S;308
+ITEM-0194;Guante Nitrilo Talla L;307
+ITEM-0195;Guante Nitrilo Talla M;306
+ITEM-0196;Guantes Látex Talla M;305
+ITEM-0197;Bata Quirúrgica;304
+ITEM-0198;Cinta Micropore 2.5cm;303
+ITEM-0199;Mascarilla N95;302
+ITEM-0200;Guantes Látex Talla M;301
+ITEM-0201;Gasas 5x5;300
+ITEM-0202;Bata Quirúrgica;299
+ITEM-0203;Cinta Micropore 2.5cm;298
+ITEM-0204;Catéter 18G;297
+ITEM-0205;Esparadrapo 5cm;296
+ITEM-0206;Guantes Látex Talla M;295
+ITEM-0207;Guante Nitrilo Talla S;294
+ITEM-0208;Bisturí 10;293
+ITEM-0209;Guantes Látex Talla M;292
+ITEM-0210;Sutura Seda 4/0;291
+ITEM-0211;Compresa Estéril 10x10;290
+ITEM-0212;Guantes Látex Talla M;289
+ITEM-0213;Compresa Estéril 10x10;288
+ITEM-0214;Bisturí 10;287
+ITEM-0215;Mascarilla Quirúrgica 3pl;286
+ITEM-0216;Alcohol en Gel 250mL;285
+ITEM-0217;Catéter 16G;284
+ITEM-0218;Compresa Estéril 10x10;283
+ITEM-0219;Termómetro Digital;282
+ITEM-0220;Guante Nitrilo Talla L;281
+ITEM-0221;Bolsa Desechable 30L;280
+ITEM-0222;Guante Nitrilo Talla M;279
+ITEM-0223;Gasas 10x10;278
+ITEM-0224;Termómetro Digital;277
+ITEM-0225;Catéter 18G;276
+ITEM-0226;Bisturí 10;275
+ITEM-0227;Termómetro Digital;274
+ITEM-0228;Gasas 5x5;273
+ITEM-0229;Jeringa 5mL;272
+ITEM-0230;Esparadrapo 5cm;271
+ITEM-0231;Alcohol 70% 500mL;270
+ITEM-0232;Jeringa 5mL;269
+ITEM-0233;Bolsa Desechable 30L;268
+ITEM-0234;Jeringa 5mL;267
+ITEM-0235;Cubrezapatos;266
+ITEM-0236;Jeringa 10mL;265
+ITEM-0237;Catéter 16G;264
+ITEM-0238;Alcohol 70% 500mL;263
+ITEM-0239;Bata Quirúrgica;262
+ITEM-0240;Jeringa 10mL;261
+ITEM-0241;Sutura Nylon 3/0;260
+ITEM-0242;Sutura Seda 4/0;259
+ITEM-0243;Alcohol 70% 1L;258
+ITEM-0244;Jeringa 5mL;257
+ITEM-0245;Mascarilla Quirúrgica 3pl;256
+ITEM-0246;Termómetro Digital;255
+ITEM-0247;Alcohol 70% 1L;254
+ITEM-0248;Mascarilla N95;253
+ITEM-0249;Termómetro Digital;252
+ITEM-0250;Mascarilla Quirúrgica 3pl;251
+ITEM-0251;Alcohol 70% 500mL;250
+ITEM-0252;Alcohol 70% 1L;249
+ITEM-0253;Guante Nitrilo Talla M;248
+ITEM-0254;Compresa Estéril 10x10;247
+ITEM-0255;Catéter 16G;246
+ITEM-0256;Esparadrapo 5cm;245
+ITEM-0257;Catéter 18G;244
+ITEM-0258;Mascarilla Quirúrgica 3pl;243
+ITEM-0259;Gasas 10x10;242
+ITEM-0260;Jeringa 5mL;241
+ITEM-0261;Cinta Micropore 2.5cm;240
+ITEM-0262;Cubrezapatos;239
+ITEM-0263;Jeringa 5mL;238
+ITEM-0264;Gasas 5x5;237
+ITEM-0265;Bata Quirúrgica;236
+ITEM-0266;Gasas 10x10;235
+ITEM-0267;Bisturí 10;234
+ITEM-0268;Sutura Nylon 3/0;233
+ITEM-0269;Termómetro Digital;232
+ITEM-0270;Bisturí 10;231
+ITEM-0271;Compresa Estéril 10x10;230
+ITEM-0272;Bisturí 10;229
+ITEM-0273;Guante Nitrilo Talla S;228
+ITEM-0274;Guante Nitrilo Talla L;227
+ITEM-0275;Catéter 16G;226
+ITEM-0276;Sutura Nylon 3/0;225
+ITEM-0277;Termómetro Digital;224
+ITEM-0278;Mascarilla Quirúrgica 3pl;223
+ITEM-0279;Gasas 5x5;222
+ITEM-0280;Cinta Micropore 2.5cm;221
+ITEM-0281;Jeringa 10mL;220
+ITEM-0282;Guante Nitrilo Talla M;219
+ITEM-0283;Guante Nitrilo Talla M;218
+ITEM-0284;Compresa Estéril 10x10;217
+ITEM-0285;Bisturí 10;216
+ITEM-0286;Esparadrapo 5cm;215
+ITEM-0287;Guantes Látex Talla M;214
+ITEM-0288;Alcohol en Gel 250mL;213
+ITEM-0289;Bisturí 10;212
+ITEM-0290;Compresa Estéril 10x10;211
+ITEM-0291;Sutura Seda 4/0;210
+ITEM-0292;Guante Nitrilo Talla S;209
+ITEM-0293;Alcohol 70% 1L;208
+ITEM-0294;Catéter 18G;207
+ITEM-0295;Alcohol 70% 500mL;206
+ITEM-0296;Mascarilla N95;205
+ITEM-0297;Cubrezapatos;204
+ITEM-0298;Jeringa 10mL;203
+ITEM-0299;Bata Quirúrgica;202
+ITEM-0300;Catéter 16G;201
+ITEM-0301;Jeringa 10mL;200
+ITEM-0302;Guante Nitrilo Talla M;199
+ITEM-0303;Catéter 16G;198
+ITEM-0304;Guante Nitrilo Talla M;197
+ITEM-0305;Cinta Micropore 2.5cm;196
+ITEM-0306;Sutura Seda 4/0;195
+ITEM-0307;Gasas 5x5;194
+ITEM-0308;Jeringa 10mL;193
+ITEM-0309;Sutura Seda 4/0;192
+ITEM-0310;Compresa Estéril 10x10;191
+ITEM-0311;Guante Nitrilo Talla L;190
+ITEM-0312;Catéter 16G;189
+ITEM-0313;Sutura Nylon 3/0;188
+ITEM-0314;Termómetro Digital;187
+ITEM-0315;Bata Quirúrgica;186
+ITEM-0316;Sutura Seda 4/0;185
+ITEM-0317;Mascarilla N95;184
+ITEM-0318;Esparadrapo 5cm;183
+ITEM-0319;Alcohol en Gel 250mL;182
+ITEM-0320;Esparadrapo 5cm;181
+ITEM-0321;Alcohol 70% 1L;180
+ITEM-0322;Alcohol 70% 500mL;179
+ITEM-0323;Alcohol 70% 1L;178
+ITEM-0324;Catéter 16G;177
+ITEM-0325;Jeringa 10mL;176
+ITEM-0326;Jeringa 5mL;175
+ITEM-0327;Sutura Seda 4/0;174
+ITEM-0328;Jeringa 10mL;173
+ITEM-0329;Bata Quirúrgica;172
+ITEM-0330;Alcohol 70% 500mL;171
+ITEM-0331;Gasas 5x5;170
+ITEM-0332;Esparadrapo 5cm;169
+ITEM-0333;Sutura Nylon 3/0;168
+ITEM-0334;Catéter 16G;167
+ITEM-0335;Sutura Nylon 3/0;166
+ITEM-0336;Guante Nitrilo Talla M;165
+ITEM-0337;Guante Nitrilo Talla M;164
+ITEM-0338;Guante Nitrilo Talla M;163
+ITEM-0339;Alcohol 70% 500mL;162
+ITEM-0340;Bolsa Desechable 30L;161
+ITEM-0341;Jeringa 5mL;160
+ITEM-0342;Bisturí 10;159
+ITEM-0343;Sutura Nylon 3/0;158
+ITEM-0344;Termómetro Digital;157
+ITEM-0345;Alcohol 70% 500mL;156
+ITEM-0346;Esparadrapo 5cm;155
+ITEM-0347;Sutura Nylon 3/0;154
+ITEM-0348;Alcohol 70% 500mL;153
+ITEM-0349;Jeringa 5mL;152
+ITEM-0350;Esparadrapo 5cm;151
+ITEM-0351;Jeringa 5mL;150
+ITEM-0352;Gasas 10x10;149
+ITEM-0353;Catéter 16G;148
+ITEM-0354;Esparadrapo 5cm;147
+ITEM-0355;Cubrezapatos;146
+ITEM-0356;Compresa Estéril 10x10;145
+ITEM-0357;Cinta Micropore 2.5cm;144
+ITEM-0358;Jeringa 5mL;143
+ITEM-0359;Sutura Nylon 3/0;142
+ITEM-0360;Sutura Nylon 3/0;141
+ITEM-0361;Sutura Seda 4/0;140
+ITEM-0362;Bisturí 10;139
+ITEM-0363;Bolsa Desechable 30L;138
+ITEM-0364;Cinta Micropore 2.5cm;137
+ITEM-0365;Compresa Estéril 10x10;136
+ITEM-0366;Bisturí 10;135
+ITEM-0367;Guante Nitrilo Talla S;134
+ITEM-0368;Jeringa 10mL;133
+ITEM-0369;Jeringa 5mL;132
+ITEM-0370;Alcohol en Gel 250mL;131
+ITEM-0371;Alcohol 70% 1L;130
+ITEM-0372;Catéter 18G;129
+ITEM-0373;Cinta Micropore 2.5cm;128
+ITEM-0374;Compresa Estéril 10x10;127
+ITEM-0375;Cubrezapatos;126
+ITEM-0376;Bolsa Desechable 30L;125
+ITEM-0377;Guantes Látex Talla M;124
+ITEM-0378;Guante Nitrilo Talla S;123
+ITEM-0379;Esparadrapo 5cm;122
+ITEM-0380;Bisturí 10;121
+ITEM-0381;Mascarilla N95;120
+ITEM-0382;Guantes Látex Talla M;119
+ITEM-0383;Bata Quirúrgica;118
+ITEM-0384;Cinta Micropore 2.5cm;117
+ITEM-0385;Cinta Micropore 2.5cm;116
+ITEM-0386;Mascarilla Quirúrgica 3pl;115
+ITEM-0387;Cubrezapatos;114
+ITEM-0388;Guante Nitrilo Talla M;113
+ITEM-0389;Cinta Micropore 2.5cm;112
+ITEM-0390;Bisturí 10;111
+ITEM-0391;Gasas 10x10;110
+ITEM-0392;Sutura Nylon 3/0;109
+ITEM-0393;Guantes Látex Talla M;108
+ITEM-0394;Cubrezapatos;107
+ITEM-0395;Esparadrapo 5cm;106
+ITEM-0396;Bata Quirúrgica;105
+ITEM-0397;Catéter 16G;104
+ITEM-0398;Alcohol 70% 500mL;103
+ITEM-0399;Alcohol en Gel 250mL;102
+ITEM-0400;Mascarilla Quirúrgica 3pl;101
+ITEM-0401;Guante Nitrilo Talla M;100
+ITEM-0402;Cinta Micropore 2.5cm;99
+ITEM-0403;Bolsa Desechable 30L;98
+ITEM-0404;Alcohol 70% 1L;97
+ITEM-0405;Gasas 5x5;96
+ITEM-0406;Guante Nitrilo Talla S;95
+ITEM-0407;Termómetro Digital;94
+ITEM-0408;Jeringa 5mL;93
+ITEM-0409;Catéter 18G;92
+ITEM-0410;Alcohol 70% 500mL;91
+ITEM-0411;Catéter 18G;90
+ITEM-0412;Bolsa Desechable 30L;89
+ITEM-0413;Gasas 5x5;88
+ITEM-0414;Catéter 18G;87
+ITEM-0415;Sutura Nylon 3/0;86
+ITEM-0416;Bata Quirúrgica;85
+ITEM-0417;Esparadrapo 5cm;84
+ITEM-0418;Bisturí 10;83
+ITEM-0419;Cubrezapatos;82
+ITEM-0420;Cubrezapatos;81
+ITEM-0421;Guante Nitrilo Talla M;80
+ITEM-0422;Bolsa Desechable 30L;79
+ITEM-0423;Alcohol 70% 500mL;78
+ITEM-0424;Sutura Nylon 3/0;77
+ITEM-0425;Gasas 5x5;76
+ITEM-0426;Sutura Seda 4/0;75
+ITEM-0427;Jeringa 5mL;74
+ITEM-0428;Alcohol en Gel 250mL;73
+ITEM-0429;Bisturí 10;72
+ITEM-0430;Sutura Nylon 3/0;71
+ITEM-0431;Catéter 16G;70
+ITEM-0432;Jeringa 5mL;69
+ITEM-0433;Gasas 10x10;68
+ITEM-0434;Termómetro Digital;67
+ITEM-0435;Sutura Seda 4/0;66
+ITEM-0436;Jeringa 5mL;65
+ITEM-0437;Sutura Seda 4/0;64
+ITEM-0438;Jeringa 10mL;63
+ITEM-0439;Alcohol en Gel 250mL;62
+ITEM-0440;Bata Quirúrgica;61
+ITEM-0441;Cubrezapatos;60
+ITEM-0442;Alcohol en Gel 250mL;59
+ITEM-0443;Guantes Látex Talla M;58
+ITEM-0444;Bolsa Desechable 30L;57
+ITEM-0445;Mascarilla N95;56
+ITEM-0446;Esparadrapo 5cm;55
+ITEM-0447;Bisturí 10;54
+ITEM-0448;Gasas 5x5;53
+ITEM-0449;Mascarilla Quirúrgica 3pl;52
+ITEM-0450;Mascarilla N95;51
+ITEM-0451;Sutura Seda 4/0;50
+ITEM-0452;Compresa Estéril 10x10;49
+ITEM-0453;Mascarilla Quirúrgica 3pl;48
+ITEM-0454;Compresa Estéril 10x10;47
+ITEM-0455;Bata Quirúrgica;46
+ITEM-0456;Compresa Estéril 10x10;45
+ITEM-0457;Bolsa Desechable 30L;44
+ITEM-0458;Gasas 5x5;43
+ITEM-0459;Bolsa Desechable 30L;42
+ITEM-0460;Bolsa Desechable 30L;41
+ITEM-0461;Bisturí 10;40
+ITEM-0462;Jeringa 5mL;39
+ITEM-0463;Bisturí 10;38
+ITEM-0464;Jeringa 10mL;37
+ITEM-0465;Sutura Seda 4/0;36
+ITEM-0466;Cubrezapatos;35
+ITEM-0467;Mascarilla N95;34
+ITEM-0468;Compresa Estéril 10x10;33
+ITEM-0469;Alcohol 70% 1L;32
+ITEM-0470;Cinta Micropore 2.5cm;31
+ITEM-0471;Alcohol en Gel 250mL;30
+ITEM-0472;Sutura Seda 4/0;29
+ITEM-0473;Catéter 16G;28
+ITEM-0474;Catéter 16G;27
+ITEM-0475;Jeringa 10mL;26
+ITEM-0476;Bata Quirúrgica;25
+ITEM-0477;Alcohol 70% 500mL;24
+ITEM-0478;Compresa Estéril 10x10;23
+ITEM-0479;Guante Nitrilo Talla M;22
+ITEM-0480;Compresa Estéril 10x10;21
+ITEM-0481;Bolsa Desechable 30L;20
+ITEM-0482;Guante Nitrilo Talla L;19
+ITEM-0483;Jeringa 10mL;18
+ITEM-0484;Termómetro Digital;17
+ITEM-0485;Guantes Látex Talla M;16
+ITEM-0486;Mascarilla N95;15
+ITEM-0487;Cubrezapatos;14
+ITEM-0488;Bisturí 10;13
+ITEM-0489;Gasas 5x5;12
+ITEM-0490;Gasas 5x5;11
+ITEM-0491;Sutura Seda 4/0;10
+ITEM-0492;Mascarilla N95;9
+ITEM-0493;Sutura Seda 4/0;8
+ITEM-0494;Bolsa Desechable 30L;7
+ITEM-0495;Mascarilla N95;6
+ITEM-0496;Alcohol 70% 500mL;5
+ITEM-0497;Alcohol 70% 1L;4
+ITEM-0498;Esparadrapo 5cm;3
+ITEM-0499;Cubrezapatos;2
+ITEM-0500;Cinta Micropore 2.5cm;1
