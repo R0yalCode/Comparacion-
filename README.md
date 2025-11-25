@@ -3,10 +3,14 @@
 ## Unidad 2 – Estructura de Datos
 
 ---
+Link del taller:
+## [Taller 6](https://github.com/R0yalCode/Comparacion-/blob/develop/Comparaci%C3%B3n_Grupo_W.pdf)
+---
 
 ## 1. Introducción
 
-Este proyecto implementa un sistema profesional de comparación de algoritmos de ordenación, desarrollado para el Taller 6 – Comparación Empírica de Ordenación.
+Este proyecto implementa un sistema profesional de comparación de algoritmos de ordenación, desarrollado para el [Taller 6](https://github.com/R0yalCode/Comparacion-/blob/develop/Comparaci%C3%B3n_Grupo_W.pdf) . 
+
 El programa permite evaluar y contrastar los algoritmos clásicos:
 
 * **Insertion Sort**
